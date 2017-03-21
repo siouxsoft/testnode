@@ -1,4 +1,4 @@
 testnode
 ========
 
-Testing for node.js
+Testing for GO
